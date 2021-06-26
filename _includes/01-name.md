@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Code HY 
+## Learning about markdowns
+###### headers
